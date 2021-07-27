@@ -1,13 +1,13 @@
-Veuillez trouver ci-joint un script qui consiste a scrapper les commentaire d'un produit dans le site Amazon
+Please find attached a script which consists in stripping the comments of a product in the Amazon site
 
-Ainsi que un scripte qui fait le nettoyage du text on utilisant stop_words, Lemmatisation, Normalisation(accent,majuscules...)
+As well as a script which cleans up the text using stop_words, Lemmatization, Normalization (accent, capitals ...)
 
-j'ai pas encore fini ce projet, je fait encore de la recherche sur ce domaine de NLP, 
+I haven't finished this project yet, I'm still doing research on this area of NLP,
 
-Je vous cite les prochaines etapes que je voulais faire:
+I am giving you the next steps I wanted to do:
 
-  -> TF-IDF (consiste a calculer le poids ainsi que la raréter d'un mots dans le texte)
-  -> WORD2VEC
-  -> BERT FRANçAIS
+   -> TF-IDF (consists in calculating the weight as well as the rarity of a word in the text)
+   -> WORD2VEC
+   -> FRENCH BERT
 
-ce sont des modéles qui consiste a faire des similarté entre les mots.
+these are models which consists in making similitudes between words.
